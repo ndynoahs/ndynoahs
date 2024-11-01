@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ndy Noahs 
 
-**`Internet Guru (Developer/StoryTeller/Creator)`**
+**`Digital Craftsman (Developer/StoryTeller/Creator)`**
 
 I'm a full-stack developer and StoryTeller building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Stories are written the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 

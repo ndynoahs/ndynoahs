@@ -5,9 +5,9 @@
 I'm a full-stack developer and StoryTeller building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Stories are written the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 ###
 📝 I regularly write articles on https://www.totally-nerdy.com/blog/
-#
+<br />
 📫 How to reach me ndynoahs@gmail.com
-#
+<br />
 ⚡ And also I love dogs. A lot.
    
 ---
